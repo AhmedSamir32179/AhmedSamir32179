@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ahmed Samir.
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning Artificial intellegent.
+- 📫 My email: ahmedsamir32179@gmail.com.
